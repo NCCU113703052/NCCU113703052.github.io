@@ -14,27 +14,16 @@
             "url": "https://NCCU113703052.github.io/ru-he-li-yong-gimp-geng-gai-tu-pian-zhong-wu-jian-de-yan-se.html",
             "title": "如何利用GIMP將圖片中的物體換顏色",
             "content_html": "\n  <p>\n    <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Upv68M-LY-c?si=r9Wc1SpABv9aR2CU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div>\n  </p>",
+            "image": "https://NCCU113703052.github.io/media/posts/7/Jade.jpg",
             "author": {
-                "name": "FOSS_ZH_TEAM"
+                "name": "JadePoet"
             },
             "tags": [
+                   "教學影片",
+                   "GIMP"
             ],
             "date_published": "2025-11-18T23:41:36+08:00",
-            "date_modified": "2025-11-19T00:28:53+08:00"
-        },
-        {
-            "id": "https://NCCU113703052.github.io/ce-shi-2.html",
-            "url": "https://NCCU113703052.github.io/ce-shi-2.html",
-            "title": "測試",
-            "summary": "這是一個測試文",
-            "content_html": "\n  <p>\n    這是一個測試文\n  </p>",
-            "author": {
-                "name": "FOSS_ZH_TEAM"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-18T12:47:48+08:00",
-            "date_modified": "2025-11-18T12:47:48+08:00"
+            "date_modified": "2025-11-19T10:45:49+08:00"
         }
     ]
 }
