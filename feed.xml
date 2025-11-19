@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>FOSS_ZH</title>
+    <link href="https://github.com/NCCU113703052/NCCU113703052.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/NCCU113703052/NCCU113703052.github.io" />
+    <updated>2025-11-19T00:28:53+08:00</updated>
+    <author>
+        <name>FOSS_ZH_TEAM</name>
+    </author>
+    <id>https://github.com/NCCU113703052/NCCU113703052.github.io</id>
+
+    <entry>
+        <title>如何利用GIMP將圖片中的物體換顏色</title>
+        <author>
+            <name>FOSS_ZH_TEAM</name>
+        </author>
+        <link href="https://github.com/NCCU113703052/NCCU113703052.github.io/ru-he-li-yong-gimp-geng-gai-tu-pian-zhong-wu-jian-de-yan-se.html"/>
+        <id>https://github.com/NCCU113703052/NCCU113703052.github.io/ru-he-li-yong-gimp-geng-gai-tu-pian-zhong-wu-jian-de-yan-se.html</id>
+
+        <updated>2025-11-18T23:41:36+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Upv68M-LY-c?si=r9Wc1SpABv9aR2CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>測試</title>
+        <author>
+            <name>FOSS_ZH_TEAM</name>
+        </author>
+        <link href="https://github.com/NCCU113703052/NCCU113703052.github.io/ce-shi-2.html"/>
+        <id>https://github.com/NCCU113703052/NCCU113703052.github.io/ce-shi-2.html</id>
+
+        <updated>2025-11-18T12:47:48+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    這是一個測試文
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    這是一個測試文
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
