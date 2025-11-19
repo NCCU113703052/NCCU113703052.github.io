@@ -3,12 +3,52 @@
     <title>FOSS_ZH</title>
     <link href="https://NCCU113703052.github.io/feed.xml" rel="self" />
     <link href="https://NCCU113703052.github.io" />
-    <updated>2025-11-19T10:45:49+08:00</updated>
+    <updated>2025-11-19T14:22:21+08:00</updated>
     <author>
         <name>FOSS_ZH_TEAM</name>
     </author>
     <id>https://NCCU113703052.github.io</id>
 
+    <entry>
+        <title>GIMP 背景去除與雙重曝光效果 製作教程</title>
+        <author>
+            <name>F YX</name>
+        </author>
+        <link href="https://NCCU113703052.github.io/gimp-bei-jing-qu-chu-yu-shuang-chong-pu-guang-xiao-guo-zhi-zuo-jiao-cheng.html"/>
+        <id>https://NCCU113703052.github.io/gimp-bei-jing-qu-chu-yu-shuang-chong-pu-guang-xiao-guo-zhi-zuo-jiao-cheng.html</id>
+        <media:content url="https://NCCU113703052.github.io/media/posts/11/maxresdefault.jpg" medium="image" />
+            <category term="教學影片"/>
+            <category term="GIMP"/>
+
+        <updated>2025-11-19T14:21:49+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://NCCU113703052.github.io/media/posts/11/maxresdefault.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/P543Upv7VJ0?si=4ldAQi3B-gWii-AC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>一分鐘教會你用GIMP去除圖片背景</title>
+        <author>
+            <name>陳柏宇</name>
+        </author>
+        <link href="https://NCCU113703052.github.io/yi-fen-zhong-jiao-hui-ni-yong-gimpqu-chu-tu-pian-bei-jing.html"/>
+        <id>https://NCCU113703052.github.io/yi-fen-zhong-jiao-hui-ni-yong-gimpqu-chu-tu-pian-bei-jing.html</id>
+        <media:content url="https://NCCU113703052.github.io/media/posts/10/002.jpg" medium="image" />
+            <category term="教學影片"/>
+            <category term="GIMP"/>
+
+        <updated>2025-11-19T14:19:54+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://NCCU113703052.github.io/media/posts/10/002.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZHGWaWWlk7U?si=3b5i1KHFfMFoH5Ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>如何利用GIMP將圖片中的物體換顏色</title>
         <author>
